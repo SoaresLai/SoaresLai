@@ -19,3 +19,5 @@ Se vocÃª veio para saber mais do trabalho fique a vontade para olhar os repositÃ
   <a href = "mailto:lailaisoares1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laiane-s-7b27b01a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![Snake animation](https://github.com/SoaresLai/SoaresLai/blob/output/github-contribution-grid-snake.svg)
